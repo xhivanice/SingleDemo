@@ -1,0 +1,10 @@
+/EJB/FactoryDemo/FactoryDemo/bin/Debug/FactoryDemo.exe.config
+/EJB/FactoryDemo/FactoryDemo/bin/Debug/FactoryDemo.exe
+/EJB/FactoryDemo/FactoryDemo/bin/Debug/FactoryDemo.pdb
+/EJB/FactoryDemo/FactoryDemo/bin/Debug/FactoryDemo.FrameWork.dll
+/EJB/FactoryDemo/FactoryDemo/bin/Debug/FactoryDemo.FrameWork.pdb
+/EJB/FactoryDemo/FactoryDemo/obj/x86/Debug/FactoryDemo.csprojAssemblyReference.cache
+/EJB/FactoryDemo/FactoryDemo/obj/x86/Debug/FactoryDemo.csproj.CoreCompileInputs.cache
+/EJB/FactoryDemo/FactoryDemo/obj/x86/Debug/FactoryDemo.csproj.CopyComplete
+/EJB/FactoryDemo/FactoryDemo/obj/x86/Debug/FactoryDemo.exe
+/EJB/FactoryDemo/FactoryDemo/obj/x86/Debug/FactoryDemo.pdb

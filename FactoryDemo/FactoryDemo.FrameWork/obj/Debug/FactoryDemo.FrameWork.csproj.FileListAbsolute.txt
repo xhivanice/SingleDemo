@@ -1,0 +1,5 @@
+/EJB/FactoryDemo/FactoryDemo.FrameWork/bin/Debug/FactoryDemo.FrameWork.dll
+/EJB/FactoryDemo/FactoryDemo.FrameWork/bin/Debug/FactoryDemo.FrameWork.pdb
+/EJB/FactoryDemo/FactoryDemo.FrameWork/obj/Debug/FactoryDemo.FrameWork.csproj.CoreCompileInputs.cache
+/EJB/FactoryDemo/FactoryDemo.FrameWork/obj/Debug/FactoryDemo.FrameWork.dll
+/EJB/FactoryDemo/FactoryDemo.FrameWork/obj/Debug/FactoryDemo.FrameWork.pdb
